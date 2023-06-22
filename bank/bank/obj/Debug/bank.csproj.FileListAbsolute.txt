@@ -1,0 +1,8 @@
+C:\Users\ELCOT\source\repos\bank\bank\bin\Debug\bank.exe.config
+C:\Users\ELCOT\source\repos\bank\bank\bin\Debug\bank.exe
+C:\Users\ELCOT\source\repos\bank\bank\bin\Debug\bank.pdb
+C:\Users\ELCOT\source\repos\bank\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\bank\bank\obj\Debug\bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\ELCOT\source\repos\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\bank\bank\obj\Debug\bank.exe
+C:\Users\ELCOT\source\repos\bank\bank\obj\Debug\bank.pdb
